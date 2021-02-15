@@ -1,10 +1,14 @@
 # GAIH Student Repo 
 ![](img/logo.png)
 
-**Course Date:** 
+**Course Date:**
+
 **Name:** 
+
 **Surname:** 
+
 **Email:**  
+
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 

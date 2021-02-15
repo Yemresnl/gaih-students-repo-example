@@ -1,10 +1,10 @@
 # GAIH Student Repo 
 ![](img/logo.png)
 
-**Course Date:** 15.02.2021
-**Name:** Yunus Emre
-**Surname:** Şanlı
-**Email:**  yunusemresanli29@gmail.com
+**Course Date:** 15.02.2021 
+**Name:** Yunus Emre 
+**Surname:** Şanlı 
+**Email:**  yunusemresanli29@gmail.com 
 
 
 ## Project Name
